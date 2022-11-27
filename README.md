@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+  <p></p>
+  <p></p>
   <a href="https://www.buymeacoffee.com/santygo777">
     <img src="https://img.shields.io/badge/%F0%9F%8D%BA_BY_ME_A_BEER-bd5fff?style=flat"/>
   </a>
