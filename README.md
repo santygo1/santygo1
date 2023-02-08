@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I'm 20 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
-- 🌱 I’m currently learning Java Spring Framework and improving my skills in object-oriented analysis and design.
-- ⚡ In my free time i play the guitar and make graphic designs of websites, logos and booklets.
+- 🌱 I’m currently learning Java Spring Framework(core, boot, cloud, jpa, actuator, aop) with microservices architechure.
+- ⚡ In my free time i play the guitar and reading books.
 - 📫 How to reach me: [![VKontake Badge](https://img.shields.io/badge/Danil_Spirin-0077FF?logo=vk&style=flat&logoColor=FFFFFF)](https://vk.com/tygo777)
 ---
 
@@ -72,17 +72,10 @@ I'm 20 y.o. and I'm Software Engineer from Russia.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java Spring Framework" alt="Java Spring Framework" width="40" height="40"/>&nbsp;
-  <img src="https://static.wixstatic.com/media/2724b2_a4c660815dde4271be00cb7e9b9cae2c~mv2.png/v1/fit/w_605%2Ch_533%2Cal_c/file.png" title="JavaFX" alt="JavaFX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL">
+  <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android SDK" alt="Android SDK" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python 3" alt="Python 3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 ---
