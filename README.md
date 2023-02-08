@@ -72,8 +72,8 @@ I'm 20 y.o. and I'm Software Engineer from Russia.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java Spring Framework" alt="Java Spring Framework" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL">
-  <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" height="40px" width="40px">
+  <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" height="40px" width="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
