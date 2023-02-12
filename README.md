@@ -76,10 +76,9 @@ I'm 20 y.o. and I'm Software Engineer from Russia.
   <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" height="40px" width="40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
-
 ---
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santygo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
