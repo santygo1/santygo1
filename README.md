@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I'm 20 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
-- 🌱 I’m currently learning Java Spring Framework(core, boot, cloud, jpa, actuator, aop) with microservices architechure.
+- 🌱 I’m currently learning Java Spring Framework(core, boot, jpa, cloud) with microservices architechure.
 - ⚡ In my free time i play the guitar and reading books.
 - 📫 How to reach me: [![VKontake Badge](https://img.shields.io/badge/Danil_Spirin-0077FF?logo=vk&style=flat&logoColor=FFFFFF)](https://vk.com/tygo777)
 ---
