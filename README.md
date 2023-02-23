@@ -56,10 +56,6 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/gY8Bs8qvD1EukQBj5V/giphy.gif" height="300px" width="100%">
-</div>
-
 ### :man_technologist: About Me :
 I'm 20 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
