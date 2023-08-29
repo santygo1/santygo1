@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I'm 20 y.o. and I'm Software Engineer from Russia.
+I'm 21 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
 - 🌱 I’m currently learning Java Spring Framework(core, boot, jpa, cloud) with microservices architechure.
 - ⚡ In my free time i play the guitar and reading books.
@@ -73,6 +73,7 @@ I'm 20 y.o. and I'm Software Engineer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
 </div>
 
 ---
