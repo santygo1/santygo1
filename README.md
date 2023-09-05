@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 </div> 
 
 <div id="badges" align="center">
-  <!-- VKontakte -->
-  <a href="https://vk.com/tygo777">
-    <img src="https://img.shields.io/badge/VKontakte-0077FF?logo=vk&style=for-the-badge&logoColor=FFFFFF" alt="VKontakte Badge" title="Я во ВКонтакте" 
-        height="20px"/>
-  </a>
   
   <!-- StackOverflow -->
   <a href="https://ru.stackoverflow.com/users/278989/tygo">
@@ -61,7 +56,6 @@ I'm 21 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
 - 🌱 I’m currently learning Java Spring Framework(core, boot, jpa, cloud) with microservices architechure.
 - ⚡ In my free time i play the guitar and reading books.
-- 📫 How to reach me: [![VKontake Badge](https://img.shields.io/badge/Danil_Spirin-0077FF?logo=vk&style=flat&logoColor=FFFFFF)](https://vk.com/tygo777)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
