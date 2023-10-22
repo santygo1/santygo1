@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I'm 21 y.o. and I'm Software Engineer from Russia.
-- 🔭 I'm currently studying at the university in the 3rd year of Software Engineering.
+- 🔭 I'm currently studying at the university in the 4th year of Software Engineering.
 - 🌱 I’m currently learning Java Spring Framework(core, boot, jpa, cloud) with microservices architechure.
 - ⚡ In my free time i play the guitar and reading books.
 ---
