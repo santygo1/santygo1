@@ -51,14 +51,14 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### 😄 About Me :
 I'm 21 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 4th year of Software Engineering.
-- 🌱 I’m currently learning Java Spring Framework(core, boot, jpa, cloud) with microservices architechure.
-- ⚡ In my free time i play the guitar and reading books.
+- 🌱 I’m currently learning Java Spring Framework.
+- ⚡ In my free time reading books about OOP and distributed architecture.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🔨 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java Spring Framework" alt="Java Spring Framework" width="40" height="40"/>&nbsp;
@@ -72,7 +72,7 @@ I'm 21 y.o. and I'm Software Engineer from Russia.
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santygo1&theme=dark&background=000000)](https://git.io/streak-stats)
 
