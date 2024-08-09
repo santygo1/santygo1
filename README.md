@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ---
 
 ### 😄 About Me :
-I'm 21 y.o. and I'm Software Engineer from Russia.
+I'm 22 y.o. and I'm Software Engineer from Russia.
 - 🔭 I'm currently studying at the university in the 4th year of Software Engineering.
 - 🌱 I’m currently learning Java Spring Framework.
 - ⚡ In my free time reading books about OOP and distributed architecture.
