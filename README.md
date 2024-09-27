@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ### 😄 About Me :
 I'm 22 y.o. and I'm Software Engineer from Russia.
-- 🔭 I'm currently studying at the university in the 4th year of Software Engineering.
-- 🌱 I’m currently learning Java Spring Framework.
-- ⚡ In my free time reading books about OOP and distributed architecture.
+- 🔭 I have a higher education in software engineering. And currently I'm studying in the field of corporate management systems.
+- 🌱 I am currently updating Java Spring Framework, Microservices Architecture and Highload.
+- ⚡ I'm working in L2 support for the Nexign BSS solution.
 ---
 
 ### 🔨 Languages and Tools :
