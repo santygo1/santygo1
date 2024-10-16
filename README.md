@@ -1,19 +1,3 @@
-
-<!--
-**santygo1/santygo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="150"/>
 </div> 
@@ -53,21 +37,28 @@ Here are some ideas to get you started:
 
 ### 😄 About Me :
 I'm 22 y.o. and I'm Software Engineer from Russia.
-- 🔭 I have a higher education in software engineering. And currently I'm studying in the field of corporate management systems.
-- 🌱 I am currently updating Java Spring Framework, Microservices Architecture and Highload.
-- ⚡ I'm working in L2 support for the Nexign BSS solution.
+- 🔭 I have a higher education in software engineering. And now I'm studying in the field of corporate management systems.
+- 🌱 I am currently improve my skills into Java, Spring Framework, Microservices Architecture and Highload.
+- ⚡ I'm working in L2 support for the BSS solution.
 ---
 
 ### 🔨 Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Java Spring Framework" alt="Java Spring Framework" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" height="40px" width="40px">
-  <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" height="40px" width="40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" alt="Intellij IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java(Advanced)" alt="Java" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot(Advanced)" alt="Spring Boot" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven(Intermediate)" alt="Maven" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js(Intermediate)" alt="React.js" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate(Basic)" alt="Hibernate" height="30" width="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL(Basic)" alt="PostgreSQL" height="30" width="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleDB(Intermediate)" alt="Oracle" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx(Basic)" alt="Nginx" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ(Basic)" alt="RabbitMQ" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHubActions(Basic)" alt="GitHubActions" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker(Basic)" alt="Docker" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA(Intermediate)" alt="Intellij IDEA" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git(Basic)" alt="Git" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman(Intermediate)" alt="Postman" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux(Intermediate)" alt="Linux" width="30" height="30"/>
 </div>
 
 ---
