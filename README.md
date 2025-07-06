@@ -3,17 +3,10 @@
 </div> 
 
 <div id="badges" align="center">
-  
   <!-- StackOverflow -->
   <a href="https://ru.stackoverflow.com/users/278989/tygo">
     <img src="https://img.shields.io/badge/StackOverflow-FFFFFF?logo=stackOverflow&style=for-the-badge&logoColor=F58025" alt="StackOverflow Badge" title="Я на StackOverflow" 
         height="20px"/>
-  </a>
-  
-  <!--Telegram -->
-  <a href="https://t.me/tygo777">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=FFFFFF" alt="Telegram Badge" title="Я в Telegram" 
-          height="20px"/>
   </a>
 </div>
 
