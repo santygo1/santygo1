@@ -30,9 +30,9 @@
 
 ### 😄 About Me :
 I'm 23 y.o. and I'm Software Engineer from Russia.
-- 🔭 I have a higher education in software engineering. And now I'm studying in the field of corporate management systems.
+- 🔭 I have a higher education in software engineering.
 - 🌱 I am currently improve my skills into Java, Spring Framework, Microservices Architecture and Highload.
-- ⚡ I'm working in L2 support for the BSS solution.
+- ⚡ I'm working in support for the BSS.
 ---
 
 ### 🔨 Languages and Tools :
